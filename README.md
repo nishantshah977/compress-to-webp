@@ -1,6 +1,9 @@
 # compress-to-webp
 Compress your jpg, jpeg, png and convert into webp without losing quality ( depends upon level )in PHP.
 
+* **Cup.jpg** is original
+* **test/filename_to_convert.webp** is compressed 
+
 ```
 <?php
 require('ImgProcess.php');
